@@ -9,8 +9,6 @@
 
 🏠 Responsive Navigation Bar – logo and menu links
 
-💐 Hero Section – catchy heading & description
-
 🌷 Product Cards – showcase beautiful flowers with images
 
 📸 Footer – personal photo & social media links
