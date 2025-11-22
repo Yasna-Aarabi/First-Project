@@ -23,4 +23,4 @@ CSS3 (Flexbox & styling)
 
 This project shows my basic web design skills and understanding of layout, sections, and responsive design. Perfect for beginners stepping into web development!
 
-DEMO: https://github.com/Yasna-Aarabi/First-Project/
+DEMO: https://github.com/Yasna-Aarabi.io/First-Project/
