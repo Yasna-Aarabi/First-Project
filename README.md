@@ -1,7 +1,7 @@
 # First-Project
 
 
-✨ My very first HTML & CSS project! A clean and elegant landing page for a flower shop.
+✨ My first HTML & CSS project! A clean and elegant landing page for a flower shop.
 
 ![Flower Shop Screenshot](https://github.com/Yasna-Aarabi/First-Project/blob/main/1.png)
 
