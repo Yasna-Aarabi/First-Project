@@ -3,7 +3,7 @@
 
 ✨ My first HTML & CSS project! A clean and elegant landing page for a flower shop.
 
-![Flower Shop Screenshot](.assets/images/1.png)
+![Flower Shop Screenshot](./assets/images/1.png)
 
 🌟 Features
 
